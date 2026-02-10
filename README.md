@@ -5,7 +5,7 @@ With this plugin, you can add a Auto-Mine to the your server.
 # How to use?
 1. Download the plugin (latest release): https://github.com/mishapeskarik/bAutoMine/releases
 2. Make sure you have server core version 1.16.5 and Java 17
-3. Drop the "bAutoMine-1.0.jar" into your /plugins folder
+3. Drop the "bAutoMine-1.1.jar" into your /plugins folder
 4. Start your server and enjoy!
 
 # Commands
