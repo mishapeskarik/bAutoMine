@@ -1,5 +1,5 @@
 # bAutoMine
-bAutoMine - a Minecraft Java Plugin for 1.16.5 and JDK 17.
+bAutoMine - a Minecraft Java Plugin for 1.13+ and Java 1.8+
 With this plugin, you can add a Auto-Mine to the your server.
 
 # How to use?
