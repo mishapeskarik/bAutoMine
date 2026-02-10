@@ -2,6 +2,10 @@
 bAutoMine - a Minecraft Java Plugin for 1.13+ and Java 1.8+.
 With this plugin, you can add a Auto-Mine to the your server.
 
+# Dependencies (required)
+1. Download the Vault economy: https://github.com/MilkBowl/Vault/releases
+2. Download the PlaceholderAPI: https://github.com/PlaceholderAPI/PlaceholderAPI/releases
+
 # How to use?
 1. Download the plugin (latest release): https://github.com/mishapeskarik/bAutoMine/releases
 2. Make sure you have server core version 1.16.5 and Java 17
